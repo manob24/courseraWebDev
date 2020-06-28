@@ -5,6 +5,7 @@ h1{
     text-align: center;
 }
 body{
+    padding: 5px;
     font-family: cursive, Tahoma, Geneva, Verdana, sans-serif;
 }
 .content-name{
@@ -37,7 +38,7 @@ section>p{
         width: 48%;
     }
     .col-md-12{
-        width: 100%;
+        width: 98%;
     }
 }
 .box-1{
