@@ -36,9 +36,7 @@ section>p{
     .col-md-6{
         width: 48%;
     }
-}
-@media (max-width: 767px){
-    .col-sm-12{
+    .col-md-12{
         width: 100%;
     }
 }
