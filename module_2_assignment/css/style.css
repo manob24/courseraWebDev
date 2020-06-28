@@ -37,6 +37,11 @@ section>p{
         width: 48%;
     }
 }
+@media (max-width: 767px){
+    .col-sm-12{
+        width: 100%;
+    }
+}
 .box-1{
     background-color: purple;
     color: white;
